@@ -1,6 +1,6 @@
 # For Linux or any machines with gcc compiler
 CC = gcc
-CFLAGS = -g -ansi -Wall -pedantic
+CFLAGS = -ansi -Wall -pedantic
 
 # For SunOS
 #CFLAGS = -Aa
